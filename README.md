@@ -9,7 +9,7 @@ A simple yet powerful Todo List web application built with **Laravel**, **Tailwi
 
 - 🧑‍💼 Authentication (Laravel Breeze)
 - ✅ Add / Edit / Delete todos
-- 🌗 Dark & Light theme toggle
+- 🌗 Dark & Light theme
 - 📱 Fully responsive UI with Tailwind CSS
 - 📅 Timestamps for task creation and updates
 
@@ -101,5 +101,3 @@ This project is open-source and available under the [MIT license](LICENSE).
 
 **Moeed Anwar**
 [GitHub Profile](https://github.com/moeed-anwar)
-
-```
