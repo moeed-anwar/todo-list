@@ -31,7 +31,7 @@ Make sure you have PHP, Composer, Node.js, and a database (like MySQL) installed
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/laravel-todo-app.git
+git clone https://github.com/moeed-anwar/todo-list.git
 cd laravel-todo-app
 ````
 
